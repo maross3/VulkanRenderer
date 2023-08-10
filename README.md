@@ -1,5 +1,5 @@
 # VulkanRenderer
-The rendering pipeline of the game engine I'm finna make
+A rendering pipeline of game engine
 
 Build it? Make sure you got SDL2 installed. Should be good to go.
 
